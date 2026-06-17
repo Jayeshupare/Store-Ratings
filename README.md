@@ -2,7 +2,7 @@
 
 ## Deployed Application
 
-🌐 Project Link: https://your-deployed-project-link.com
+🌐 Project Link: https://store-rate-frontend.onrender.com
 
 ## User Roles 
 
@@ -10,4 +10,4 @@
 |------|--------|----------|
 | System Administrator  | admin@system.com | Admin@123! |
 | Store Owner | owner@techsuper.com | Owner@123! |
-| Normal User | @.com | Owner@123! |
+| Normal User | user@gmail.com | User@123 |
